@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Enet Fiber Perú</string>
-    <string name="site_url">https://enet.com.pe/</string>
-    <string name="site_host">enet.com.pe</string>
-    <string name="no_internet_title">Sin conexión a internet</string>
-    <string name="no_internet_message">No pudimos cargar Enet Fiber Perú. Revisa tu conexión e inténtalo de nuevo.</string>
-    <string name="retry">Reintentar</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="enet_blue">#0B3D91</color>
-    <color name="enet_blue_dark">#062659</color>
-    <color name="enet_sky">#29B6F6</color>
-    <color name="enet_yellow">#FFC107</color>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-</resources>
