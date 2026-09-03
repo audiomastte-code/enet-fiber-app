@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Enet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/enet_blue</item>
+        <item name="colorPrimaryDark">@color/enet_blue_dark</item>
+        <item name="colorAccent">@color/enet_sky</item>
+        <item name="android:statusBarColor">@color/enet_blue_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+    </style>
+
+    <style name="Theme.Enet.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/enet_blue_dark</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.Enet</item>
+    </style>
+
+</resources>
